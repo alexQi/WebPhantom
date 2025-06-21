@@ -1,0 +1,4 @@
+db:
+  driver: sqlite
+  dsn: runtime/data/noctua.db
+  level: info

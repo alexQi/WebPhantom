@@ -49,10 +49,8 @@
 
 | 模块 | 说明 |
 |------|------|
-| Browser Engine | 多实例 Chrome 控制，隔离运行上下文 |
+| 协议请求控制 | 模拟平台行为进行请求封装，可绕过常见签名与参数加密策略 |
 | Account Manager | Cookie / token 注入与重用、扫码登录支持 |
-| Network Sniffer | XHR 拦截、参数解析、响应自动分类 |
-| Behavior Sim | 自动模拟鼠标、键盘、滑动等人类行为 |
 | Scheduler | 多线程任务调度，失败重试、状态恢复 |
 
 ---
@@ -82,8 +80,8 @@
 
 欢迎联系作者讨论合作机会。
 
-📧 Email：alex.qiubo@qq.com
-💬 微信 / 飞书 / TG：请私信获取
+- **📧 Email**：alex.qiubo@qq.com
+- **💬 微信**：alexchou6818
 
 ---
 

@@ -1,0 +1,7 @@
+scheduler:
+  max_workers_per_queue: 20  # 每个队列的最大 worker 数量
+  worker_idle_timeout: 30    # worker 空闲超时时间
+  auto_scale_interval: 1     # 自动缩放检查间隔
+  max_queue_depth: 1000     # 队列最大深度
+  base_retry_delay: 1        # 基础等待时间
+  default_qps: 1         # 默认 QPS 限制

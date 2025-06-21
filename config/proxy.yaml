@@ -1,0 +1,5 @@
+proxy:
+  dynamic:
+    enabled: false
+  static:
+    enabled: false
