@@ -7,7 +7,7 @@
 ## 🧠 核心能力
 
 - 🔐 **智能反爬绕过**
-  - 支持应对常见 XHR 参数签名（如 `x-bogus`,`a_bogus`,`msToken`,`x-s`,`x-t`,`x-s-common`,`__ac_nonce` 等各类加密参数）
+  - 支持应对常见 XHR 参数签名（如 `x-bogus`,`a_bogus`,`msToken`,`biz_code`,`w_rid`,`x-s-common`,`__ac_nonce` 等各类加密参数）
   - 可处理滑块验证、行为检测、访问频控等策略
 
 - 🧭 **真实用户行为模拟**
