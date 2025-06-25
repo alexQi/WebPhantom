@@ -40,10 +40,12 @@
 
 
 🚀 快速使用
+```bash
 git clone https://github.com/alexQi/webphantom.git
 cd webphantom
 go mod tidy
 go run cmd/api/main.go
+```
 
 API 示例、配置说明等文档请查看 api/ 目录。
 
